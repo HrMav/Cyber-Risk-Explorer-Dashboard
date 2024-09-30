@@ -30,6 +30,17 @@ top_vendors.json
 top_products.json
 You can view these interactive visualizations using a tool like the Altair Viewer.
 
+![image](https://github.com/user-attachments/assets/c223fcee-a837-4a97-8d1d-28e895a68d5b)
+
+![image](https://github.com/user-attachments/assets/17a32513-2054-4240-8f48-b4f4c82f8258)
+
+![image](https://github.com/user-attachments/assets/3e2824d5-d0a7-447a-9eb1-e83681cf6fc4)
+
+![image](https://github.com/user-attachments/assets/72cbc897-7dda-4a33-ab27-017418da1564)
+
+![image](https://github.com/user-attachments/assets/252f41bc-f3a0-4046-adb3-bc1bbb46dee6)
+
+
 Future Enhancements
 Interactive Dashboard: Integrate the visualizations into a single, interactive dashboard using a framework like Streamlit or Dash.
 Real-time Data: Incorporate real-time CVE data feeds to keep the dashboard up-to-date.
@@ -39,4 +50,5 @@ Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance this project.
 
 License
+
 This project is licensed under the MIT License.   
