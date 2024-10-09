@@ -23,11 +23,6 @@ The project utilizes the CVE dataset from [source of the dataset]. This dataset 
 Visualizations
 The project generates the following visualizations:
 
-cve_trend_over_time.json
-cvss_score_distribution.json
-top_cwe_names.json
-top_vendors.json
-top_products.json
 You can view these interactive visualizations using a tool like the Altair Viewer.
 
 ![image](https://github.com/user-attachments/assets/c223fcee-a837-4a97-8d1d-28e895a68d5b)
@@ -42,10 +37,12 @@ You can view these interactive visualizations using a tool like the Altair Viewe
 
 
 Future Enhancements
+
 Interactive Dashboard: Integrate the visualizations into a single, interactive dashboard using a framework like Streamlit or Dash.
 Real-time Data: Incorporate real-time CVE data feeds to keep the dashboard up-to-date.
 Predictive Analytics: Explore machine learning models to predict future CVE trends or identify high-risk vulnerabilities.
 User Customization: Allow users to filter and drill down into the data based on their specific interests.
+
 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance this project.
 
